@@ -1,0 +1,128 @@
+ul>li {
+    font-size: 1.6vmax;
+}
+
+.vid-li {
+    font-weight: 600;
+    font-size: 1.3vmax;
+}
+.ex-li {
+    font-size: 1.6vmax;
+}
+
+.ri-arrow-down-line {
+    font-size: 1.6vmax;
+}
+ul li {
+    font-size: 1.3vmax;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+}
+
+ul li:hover {
+    cursor: pointer;
+    /* position: absolute;
+    top: 10%; */
+    color: gray;
+}
+#product-top-text{
+    font-size: 2.4vmax;
+    position: relative;
+    top: 5%;
+    left: 30%;
+    opacity: 1;
+}
+
+/* -------------Nav ---end----- */
+h1 {
+    font-size: 5vmax;
+    padding-top: 7%;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 5%;
+}
+
+/* h1 span {
+    color: white;
+} */
+
+h1:hover {
+    color: gray;
+}
+
+h1 span:hover {
+    /* color: black; */
+     color: gray;
+} 
+.div-right p {
+    text-align: center;
+    font-size: 1.5vmax;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ---------------------------------------------------------- */
+
+.h2-circle-class {
+    color: white;
+    font-size: 1vmax;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.folo-art-text {
+    position: relative;
+    top: 6%;
+    font-family: Arial, Helvetica, sans-serif;
+    /* color: white; */
+    color: gray;
+    font-weight: 100;
+}
+
+.more-btn {
+    padding: 10px 40px;
+    border-radius: 50px;
+    border: none;
+    position: relative;
+    background-color: grey;
+    top: -12%;
+    left: 20%;
+    color: white;
+}
+.more-btn:hover{
+    cursor: pointer;
+    background-color: #50b7cd;
+}
+
+.ri-add-circle-fill {
+    position: relative;
+    top: -19%;
+    left: 90%;
+    font-size: 3vmax;
+    opacity: 0.6;
+    transition: 0.3s;
+}
+
+.ri-add-circle-fill:hover {
+    cursor: pointer;
+    zoom: 75%;
+    font-size: 3vmax;
+    opacity: 1
+}
+#digital-heading{
+    font-size: 2.5vmax;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.digital-paragrag{
+    font-size: 1.3vmax;
+    /* text-align: center; */
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 4%;
+}
+
+.tesy-text{
+    position: relative;
+    top: 5%;
+    /* padding-left: 1%; */
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    font-weight: 100;
+}
